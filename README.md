@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 🌱 Estudando JAVA, Cientista de Dados e Inglês
 - 😄 Pronomes: ele/dele
 
-<div>
+<div align="center">
   <a href="https://github.com/FabioRG37">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioRG37&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRG37&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 <br>
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
