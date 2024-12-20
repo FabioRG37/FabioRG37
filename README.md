@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Atualmente estou a procura de recolocação no mercado de trabalho
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🎓 Formado em Matemática
 - 🌱 Estudando JAVA, Cientista de Dados e Inglês
 - 😄 Pronomes: ele/dele
 
