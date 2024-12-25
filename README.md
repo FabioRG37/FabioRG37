@@ -1,18 +1,22 @@
+
+<!--
 ## Olá! 👋
 Eu foi o Fábio 😉
-<!--
 **FabioRG37/FabioRG37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 -->
-
-- 🔭 Atualmente estou a procura de recolocação no mercado de trabalho
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 🎓 Formado em Matemática
-- 🌱 Estudando JAVA, Cientista de Dados e Inglês
-- 😄 Pronomes: ele/dele
-
+<div align=center>
+  <img width=100% bottom=50px src="https://github.com/user-attachments/assets/4287c2a2-38c5-4856-9629-bd265c8527a7"/>
+</div>
+<br><br>
+- 🔭 Atualmente estou a procura de recolocação no mercado de trabalho<br>
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
+- 🎓 Formado em Matemática<br>
+- 🌱 Estudando JAVA, Cientista de Dados e Inglês<br>
+- 😄 Pronomes: ele/dele<br>
+<br>
 <div align="center">
   <a href="https://github.com/FabioRG37">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioRG37&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
