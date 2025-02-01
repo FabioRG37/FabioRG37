@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 🎓 Formado em Matemática<br>
 - 🌱 Estudando JAVA, Cientista de Dados e Inglês<br>
 - 😄 Pronomes: ele/dele<br>
+
+**PS.: Quero deixar registrado que estou adorando aprender a programar jogos**
 <br>
 <div align="center">
   <a href="https://github.com/FabioRG37">
