@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div style="display: inline_block" align="center">
+  <!-- Tecnologias -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="30" height="30"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="30" height="30" />
@@ -45,7 +46,8 @@ Here are some ideas to get you started:
 
 ##
 <br>
-<div>
+<div align='center'>
+  <!-- Contatos -->
   <a href="https://www.instagram.com/fabiorg_/" target="_blank"><img src="http://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/f%C3%A1bio-gon%C3%A7alves-509bb330/?locale=en_US" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkein&logoColor=white" target="_blank"></a>
   <a href="mailto:falsilgon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
